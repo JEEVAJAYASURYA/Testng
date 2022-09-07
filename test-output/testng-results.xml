@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="103950" started-at="2022-09-03T09:38:25Z" finished-at="2022-09-03T09:40:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="103950" started-at="2022-09-03T09:38:25Z" finished-at="2022-09-03T09:40:09Z">
+      <class name="org.net.TestClass">
+        <test-method status="PASS" signature="open()[pri:0, instance:org.net.TestClass@6d4b1c02]" name="open" is-config="true" duration-ms="8765" started-at="2022-09-03T09:38:25Z" finished-at="2022-09-03T09:38:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="star()[pri:0, instance:org.net.TestClass@6d4b1c02]" name="star" is-config="true" duration-ms="18800" started-at="2022-09-03T09:38:34Z" finished-at="2022-09-03T09:38:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- star -->
+        <test-method status="PASS" signature="tc3(java.lang.String, java.lang.String)[pri:0, instance:org.net.TestClass@6d4b1c02]" name="tc3" duration-ms="14442" started-at="2022-09-03T09:38:53Z" data-provider="login" finished-at="2022-09-03T09:39:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[surya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.net.TestClass@6d4b1c02]" name="end" is-config="true" duration-ms="0" started-at="2022-09-03T09:39:07Z" finished-at="2022-09-03T09:39:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="star()[pri:0, instance:org.net.TestClass@6d4b1c02]" name="star" is-config="true" duration-ms="7561" started-at="2022-09-03T09:39:07Z" finished-at="2022-09-03T09:39:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- star -->
+        <test-method status="PASS" signature="tc3(java.lang.String, java.lang.String)[pri:0, instance:org.net.TestClass@6d4b1c02]" name="tc3" duration-ms="13731" started-at="2022-09-03T09:39:15Z" data-provider="login" finished-at="2022-09-03T09:39:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jai]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.net.TestClass@6d4b1c02]" name="end" is-config="true" duration-ms="4" started-at="2022-09-03T09:39:28Z" finished-at="2022-09-03T09:39:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="star()[pri:0, instance:org.net.TestClass@6d4b1c02]" name="star" is-config="true" duration-ms="6121" started-at="2022-09-03T09:39:28Z" finished-at="2022-09-03T09:39:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- star -->
+        <test-method status="PASS" signature="tc3(java.lang.String, java.lang.String)[pri:0, instance:org.net.TestClass@6d4b1c02]" name="tc3" duration-ms="13401" started-at="2022-09-03T09:39:34Z" data-provider="login" finished-at="2022-09-03T09:39:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manoj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vicky]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.net.TestClass@6d4b1c02]" name="end" is-config="true" duration-ms="0" started-at="2022-09-03T09:39:48Z" finished-at="2022-09-03T09:39:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="star()[pri:0, instance:org.net.TestClass@6d4b1c02]" name="star" is-config="true" duration-ms="7942" started-at="2022-09-03T09:39:48Z" finished-at="2022-09-03T09:39:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- star -->
+        <test-method status="PASS" signature="tc3(java.lang.String, java.lang.String)[pri:0, instance:org.net.TestClass@6d4b1c02]" name="tc3" duration-ms="13118" started-at="2022-09-03T09:39:56Z" data-provider="login" finished-at="2022-09-03T09:40:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[priya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[moorthy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.net.TestClass@6d4b1c02]" name="end" is-config="true" duration-ms="0" started-at="2022-09-03T09:40:09Z" finished-at="2022-09-03T09:40:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- org.net.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
